@@ -8,9 +8,12 @@ You can find full course on www.priyankgada.com and www.youtube.com/priyankgada
 3. Brain !
 
 # Video Tutorials
+
+Final Output - https://goo.gl/6xkNx1
+
 1. Engaging Powerpoint Presentation - Introduction
-2. Engaging Powerpoint Presentation - Free Resources
-3. Engaging Powerpoint Presentation - Color Themes
+2. Engaging Powerpoint Presentation - Getting Started - https://goo.gl/M6M0oT
+3. Engaging Powerpoint Presentation - Free Resources - https://goo.gl/3QOep7
 4. Engaging Powerpoint Presentation - Editing Icons
 5. Engaging Powerpoint Presentation - Slide 1 - Basic Slide
 6. Engaging Powerpoint Presentation - Slide 2 - Comparision Slide
